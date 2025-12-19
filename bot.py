@@ -68,7 +68,7 @@ def afficher_banniere():
 {CYAN}/_/   \_\__,_|\__\___/   {MAGENTA} \___/ \___/ \__\___|{RESET}
     """
     print(banniere)
-    print(f"{BOLD}{YELLOW}        >>> BY HADONOKUJU <<<{RESET}")
+    print(f"{BOLD}{YELLOW}        >>> by sak4ryu <<<{RESET}")
     print(f"{GREEN}   -----------------------------------{RESET}")
 
 def changer_ip(methode):
